@@ -1,0 +1,13 @@
+{
+  "name": "2048 流畅动画版",
+  "short_name": "2048",
+  "description": "具有流畅动画效果和真实音效的 2048 游戏",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait",
+  "categories": ["games", "entertainment"],
+  "lang": "zh-CN",
+  "icons": [{ "src": "icon-192.png", "sizes": "192x192", "type": "image/png" }]
+}
